@@ -4,7 +4,7 @@ This python project is from enviRule manuscript and aims to evaluate the perform
 
 Predictive models (ECC) of transformation products (TPs) are implemented with MEKA, which require training files in arff format (experiment3/train.arff). 
 
-Evaluation results of models reported in Figure 6 of enviRule manuscript were achieved by running "SingleGenEval.py". 
+Evaluation results of models reported in Supplementary Figure 6 of enviRule manuscript were achieved by running "SingleGenEval.py". 
 
 To run "SingleGenEval.py", three files need to be provided:
 
