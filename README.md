@@ -1,6 +1,6 @@
 # MERules_exp
 
-This python project is from enviRule manuscript and aims to evaluate the performance of models trained with rules reported from another study (DOI: https://doi.org/10.1016/j.ymben.2021.02.006). The original rules can be found in the folder "MERules_SM", and the subset of decomposition rules (one substrate -> multiple products) is stored in "Decomposition_rules.txt". 
+This python project is from enviRule manuscript (https://doi.org/10.1093/bioinformatics/btad407) and aims to evaluate the performance of models trained with rules reported from another study (DOI: https://doi.org/10.1016/j.ymben.2021.02.006). The original rules can be found in the folder "MERules_SM", and the subset of decomposition rules (one substrate -> multiple products) is stored in "Decomposition_rules.txt". 
 
 Predictive models (ECC) of transformation products (TPs) are implemented with MEKA, which require training files in arff format (experiment3/train.arff). 
 
